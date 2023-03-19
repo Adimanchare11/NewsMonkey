@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Heather DinichESPN Senior Writer ",
+      "title": "Hall of Fame coach Chris Ault among 3 added to CFP committee",
+      "description": "Hall of Fame coach Chris Ault has been named to the College Football Playoff selection committee, along with Miami (Ohio) athletic director David Sayler and Washington athletic director Jennifer Cohen.",
+      "url": "http://espn.go.com/college-football/story/_/id/35760757/ex-nevada-coach-chris-ault-3-added-cfp-selection-committee",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0521%2Fr1015694_600x400_3%2D2.jpg",
+      "publishedAt": "2023-03-01T17:00:00Z",
+      "content": "Hall of Fame coach Chris Ault has been named to the College Football Playoff selection committee, the CFP announced on Wednesday, along with Miami (Ohio) athletic director David Sayler and Washington… [+3607 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "Football news LIVE: Arsenal and Liverpool EXCLUSIVE coverage tonight, Sterling wants Chelsea stay, Toney...",
+      "description": "",
+      "url": "https://talksport.com/football/1330223/football-news-live-arsenal-liverpool-everton-wolves-chelsea/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/03/ah-TALKSPORT-BLOG-toney-foden-arteta.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-03-01T16:00:41Z",
+      "content": "talkSPORT.com has you covered with all the latest news, gossip and views in our dedicated football live blog.\r\nWe’ve got two huge Premier League games LIVE on our network tonight, starting with Arsen… [+916 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "Bryce Young, CJ Stroud headline top 5 QBs ahead of NFL Draft",
+      "description": "Ahead of the 2023 NFL Draft, college football analyst Joel Klatt ranks his top five quarterback prospects",
+      "url": "http://www.foxsports.com/stories/college-football/bryce-young-cj-stroud-headline-top-5-qbs-ahead-of-nfl-draft",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/02/1408/814/02.28.23_KlattTop5QB_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-01T12:10:39Z",
+      "content": "Which quarterback deserves to be selected first in the 2023 NFL Draft?\r\nFor FOX Sports college football analyst Joel Klatt, Alabama QB Bryce Young is the clear-cut answer. Despite concerns surroundin… [+2463 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
